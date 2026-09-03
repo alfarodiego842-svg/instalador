@@ -1,4 +1,4 @@
-Aquí tienes una plantilla limpia, visual y estructurada en formato Markdown para tu archivo `README.md`. Puedes copiarla y pegarla directamente en tu repositorio.
+Aquí tienes una plantilla limpia, visual y estructurada en formato Markdown para tu archivo `README`. Puedes copiarla y pegarla directamente en tu repositorio.
 
 ---
 
